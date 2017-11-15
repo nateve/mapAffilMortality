@@ -1,0 +1,35 @@
+FIPS categories
+
+Cities with robust data (higher population, many pubs)
+
+25025 - Boston
+36061 - NYC Manhattan
+17031 - Chicago
+24510 - Baltimore, MD
+42101 - Philadelphia
+48201 - Houston TX
+
+47065 - Chattanooga, TN; -12.77
+29019 - Columbia, MO; -10.4
+
+
+Middle cities with high pop but lower pubs
+rate between -10 and -5
+
+22073 - Monroe, LA; -6.22
+05143 - Fayetteville, AK; -9.8
+13021 - Macon, GA; -6.4
+26111 - Midland, MI; -9.4
+
+
+rate greater than -5
+54011 - Huntington, WV; -4.09
+01073 - Birmingham, AL; 3.398983
+55139 - Oshkosh, WI; 3.0
+
+Three groups:
+change in mortality rate is 
+less than -10
+between -10 and -5, 
+greater than -5
+
